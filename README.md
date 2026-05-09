@@ -18,13 +18,14 @@ Muammolarni TypeScript da yechish.
 | Stack & Queue | 0 |
 | Hash Table | 1 |
 | Chellange | 8 |
+| Other | 4 |
 
 ## 📊 Umumiy
 
 | Daraja | Yechilgan |
 |--------|-----------|
-| Easy | 10 |
-| Medium | 4 |
+| Easy | 12 |
+| Medium | 6 |
 | Hard | 0 |
 
 
