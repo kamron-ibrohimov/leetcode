@@ -24,7 +24,7 @@ Muammolarni TypeScript da yechish.
 
 | Daraja | Yechilgan |
 |--------|-----------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 6 |
 | Hard | 0 |
 
